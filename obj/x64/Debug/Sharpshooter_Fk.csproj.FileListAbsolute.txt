@@ -1,0 +1,9 @@
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\bin\x64\Debug\Sharpshooter_Fk.exe.config
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\bin\x64\Debug\Sharpshooter_Fk.exe
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\bin\x64\Debug\Sharpshooter_Fk.pdb
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\obj\x64\Debug\Sharpshooter_Fk.MainForm.resources
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\obj\x64\Debug\Sharpshooter_Fk.Properties.Resources.resources
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\obj\x64\Debug\Sharpshooter_Fk.csproj.GenerateResource.Cache
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\obj\x64\Debug\Sharpshooter_Fk.exe
+C:\Users\Fraser\Desktop\Sharpshooter_Fk (v1)\obj\x64\Debug\Sharpshooter_Fk.pdb

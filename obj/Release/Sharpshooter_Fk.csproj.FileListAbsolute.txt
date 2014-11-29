@@ -1,0 +1,31 @@
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Sharpshooter_Fk.exe
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Sharpshooter_Fk.pdb
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.MainForm.resources
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.Properties.Resources.resources
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.exe
+C:\Users\user1\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.pdb
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.exe
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.pdb
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Sharpshooter_Fk.exe
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Sharpshooter_Fk.pdb
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Microsoft.DirectX.dll
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\bin\Release\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.MainForm.resources
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.Properties.Resources.resources
+C:\Users\Fraser\Desktop\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.csproj.GenerateResource.Cache
+C:\Users\Fraser\Desktop\Other Stuff\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.exe
+C:\Users\Fraser\Desktop\Other Stuff\Sharp Shooter 3\Sharpshooter_Fk\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.pdb
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\bin\Release\Sharpshooter_Fk.exe.config
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.exe
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.pdb
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\bin\Release\Sharpshooter_Fk.exe
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\bin\Release\Sharpshooter_Fk.pdb
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.MainForm.resources
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.Properties.Resources.resources
+C:\Users\Fraser\Desktop\Sharpshooter_Fk\obj\Release\Sharpshooter_Fk.csproj.GenerateResource.Cache
